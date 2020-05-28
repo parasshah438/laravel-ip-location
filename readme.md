@@ -9,5 +9,7 @@
 
 ## Laravel Crud
 
-<img src="https://github.com/Parasnshah/laravel_crud/blob/master/public/student.PNG">
+<img src="https://github.com/Parasnshah/laravel-ip-location/blob/master/public/student.PNG">
+## Location
+<img src="https://github.com/Parasnshah/laravel-ip-location/blob/master/public/location.PNG">
 
