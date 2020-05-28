@@ -9,7 +9,12 @@
 
 ## Laravel Crud
 
+## Installation
+
+composer require stevebauman/location
+
 <img src="https://github.com/Parasnshah/laravel-ip-location/blob/master/public/student.PNG">
-## Location
+
+
 <img src="https://github.com/Parasnshah/laravel-ip-location/blob/master/public/location.PNG">
 
